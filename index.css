@@ -4,7 +4,7 @@ html, body {
 }
 
 header {
-    background-color: #333333;
+    background-color: #313131;
     position: fixed;
     width: 100%;
     z-index: 5;
@@ -16,6 +16,10 @@ nav {
 }
 
 nav li {
-    color: #fff;
+    color: #ffffff;
     font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    display: inline-block;
+    width: 80px
 }
