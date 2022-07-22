@@ -35,9 +35,6 @@ header {
     color: white;
 }
 
-* {
-    box-sizing: border-box;
-}
 
 .bg-image {
     background-image: url("https://www.flickr.com/photos/196112585@N03/52233417693/in/dateposted-public/");
