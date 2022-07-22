@@ -36,6 +36,7 @@ header {
 }
 
 .jumbotron {
+    background-color: #333;
     background-image: url("https://www.flickr.com/photos/196112585@N03/52233417693/in/dateposted-public/");
     filter: blur(8px);
     -webkit-filter: blur(8px);
